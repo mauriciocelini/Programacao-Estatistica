@@ -1,0 +1,20 @@
+# Arquivos de sistema do Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Pastas de editores e RStudio / VS Code
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.vscode/
+
+# Histórico e cache do Python
+__pycache__/
+*.pyc
+
+# Dados pesados ou dados locais
+*.csv
+*.xlsx
+.env
